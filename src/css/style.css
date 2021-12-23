@@ -26,8 +26,8 @@ body {
     font-weight: 400;
 }
 
-.item:hover{
-    color: white;
+.item:hover {
+    color: rgb(245, 245, 245);
 }
 
 
@@ -75,11 +75,11 @@ body {
     box-shadow: 4px 5px 4px 0px #2e012440;
 }
 
-.botao:hover{
+.botao:hover {
     background-color: rgba(236, 214, 196, 0.53);
 }
 
-.central-faq{
+.central-faq {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -87,7 +87,7 @@ body {
     margin-top: 48px;
 }
 
-.conteudo-secundario-titulo{
+.conteudo-secundario-titulo {
     border-top: 0.4px solid #FFF2E7;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
@@ -97,21 +97,21 @@ body {
     margin-bottom: 16px;
 }
 
-.conteudo-secundario-paragrafo{
+.conteudo-secundario-paragrafo {
     font-family: 'Sarala', sans-serif;
     font-weight: 300;
     font-size: 18px;
     color: #FFF2E7;
 }
 
-.rodape{
+.rodape {
     padding: 32px;
     border-top: 0.4px solid #FFF2E7;
 }
 
-.rodape-imagem{
+.rodape-imagem {
     height: 48px;
     display: block;
     margin: 0 auto;
-    
+
 }
