@@ -7,7 +7,7 @@
 
 🚀  Quer ver como ficou? Clique:
 
-https://milenamarlim.github.io/testimonials-grid-section/
+https://milenamarlim.github.io/bot-ballerini-landing-page/
 
 
 💬 Meu maior aprendizado nesse projeto:
