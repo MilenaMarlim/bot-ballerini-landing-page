@@ -26,6 +26,10 @@ body {
     font-weight: 400;
 }
 
+.item:hover{
+    color: white;
+}
+
 
 .conteudo-central {
     border-top: 0.4px solid #FFF2E7;
