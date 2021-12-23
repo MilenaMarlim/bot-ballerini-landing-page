@@ -1,0 +1,35 @@
+@media(max-width: 830px){
+    .cabecalho{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cabecalho-menu{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+    }
+
+    .conteudo-principal{
+        align-items: center;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .central-titulo{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .central-titulo img{
+        width: 60%;
+    }
+
+    .central-faq {
+        align-items: center;
+        text-align: center;
+        margin: 10px;
+    }
+}
+
