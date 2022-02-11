@@ -132,7 +132,6 @@ span:hover{
     color: #FFF2E7;
 }
 
-
 .rodape{
     padding: 80px 0 20px 0;
     border-top: 0.4px solid #FFF2E7;
@@ -156,7 +155,7 @@ span:hover{
     padding: 15px;
     width: 65px;
     transition: 0.3s ease-in-out;
-    color:rgb(94, 47, 95)
+    color:rgb(94, 47, 95);
 }
 
 .redes-sociais a:hover{
